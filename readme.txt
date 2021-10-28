@@ -1,1 +1,0 @@
-Table assignment for FID
